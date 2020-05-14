@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Testing for Tekton & ArgoCD";
+		return "Testing for Tekton & ArgoCD. 12345";
 	}
 
 }
